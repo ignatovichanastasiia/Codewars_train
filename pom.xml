@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>Kata</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Kata_nextStep_02</module>
+        <module>Kata_nextStep03</module>
+        <module>Kata_step03</module>
+        <module>Kata_step_04</module>
+        <module>Kata_step_05</module>
+        <module>Kata_step_06</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>9.0.4</maven.compiler.source>
+        <maven.compiler.target>9.0.4</maven.compiler.target>
+    </properties>
+
+
+</project>
