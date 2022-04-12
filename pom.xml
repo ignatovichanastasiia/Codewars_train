@@ -15,6 +15,8 @@
         <module>Kata_step_05</module>
         <module>Kata_step_06</module>
         <module>Kata_step_07</module>
+        <module>kata_step_08</module>
+        <module>Kata_step09</module>
     </modules>
 
     <properties>
